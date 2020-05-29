@@ -1,0 +1,286 @@
+a {color: #333;text-decoration: none;outline: none;}
+.attachment a {border: none !important;}
+acronym, abbr, span.caps {font-size: .9em;letter-spacing: .07em;}
+.author {font-size: .8em;text-transform: uppercase;letter-spacing: 2px;}
+.author, #page_list li.page_item a, .navigation, .navigation a {color: #999;}
+body {font-size: 62.5%;font-family: "Lucida Grande",Verdana,Arial,Sans-Serif;color: #333;text-align: center;}
+.commentbox cite a {color: #000;}
+code {font: 1.1em "Courier New",Courier,Fixed;}
+.commentbox {border: 1px solid #ccc;}
+.commentlist cite, #footer ul li, #footer ol li, h3 {font-size: 1.3em;}
+.commentlist li, #commentform input, #commentform textarea, .nocomments {font: .9em Arial,Helvetica,Sans-Serif;}
+.commentlist p {font-weight: normal;line-height: 1.5em;text-transform: none;}
+.commentmetadata {border-bottom: 1px solid #eee;}
+.commentmetadata a, .reply a {border: none !important;}
+#commentspopup h1 a {color: #fff;}
+#commentspopup h1 a:hover {border-bottom: 1px dotted #fff;}
+#commentspopup .metadata {text-align: center;}
+#commentspopup .comment-body {border-left: 1px solid #ddd;}
+#commentspopup #commentlist li {text-align: left;border-bottom: 1px solid #eee;}
+#content {font-size: 1.2em;}
+#content_container .search, #footer .search {border: none;}
+#credits {font-family: Georgia,"Times New Roman",Times,serif;border-top: 1px solid #ddd;padding-top: 10px;font-style: italic !important;}
+.description {letter-spacing: 2px !important;}
+.entry {line-height: 1.6em;}
+.entry a, .comment_body a {border-bottom: 1px dotted #666;}
+.entry a img {margin-bottom: -3px;}
+.entry a:hover {color: #fff;}
+.entry h1 {font-size: 2.4em;}
+.even, .alt {}
+#footer .children a {font-size: 12px;}
+#footer p {text-align: center;}
+#footer ul li, #footer ol li {letter-spacing: -1px;border-bottom: 2px dotted #ddd;}
+.gallery a {border: none !important;}
+.gallery img {padding: 2px;border: 1px solid #ccc;}
+h1, h1 a, h1 a:visited, h2, h2 a, h2 a:hover, h2 a:visited, h3, h3 a, h3 a:hover, h3 a:visited, #sidebar h2, #wp-calendar caption, cite, #page_list li.page_item a {text-decoration: none;}
+h1, h2, h3, h4, h5, h6, #page_list li.page_item, .description, .read_more, .commentlist cite {font-family: Georgia,"Times New Roman",Times,serif;letter-spacing: -1px;font-weight: normal;}
+h2 {font-size: 1.8em;}
+h2, h2 a, h3, h3 a, #page_list li.current_page_item a, #page_list li.page_item a:hover, #commentform input, #commentform textarea, .entry a {color: #333;}
+#page_list li.page_item {font-size: 1.1em;background-color: #fff;border-right: 1px solid #ccc;border-top: 1px solid #ccc;border-left: 1px solid #ccc;}
+.navigation a {padding: 0 5px;border: none !important;}
+.nocomments {font-style: italic;}
+#page {text-align: left;}
+#page_list {border-bottom: 1px solid #ddd;}
+.post .date, .page .date {border-bottom: 1px dotted #ccc;text-transform: uppercase;font-size: .7em;}
+.postmetadata {border-top: 1px dotted #ccc;border-bottom: 2px dotted #ddd;}
+.postmetadata a, .tags a {border: none !important;}
+.postmetadata, .tags {text-align: right;font-size: .8em;}
+.read_more:hover, .navigation a:hover {color: #fff !important;}
+.read_more, #content_container .search, #footer .search, .navigation, .commentlist li ul li, #credits {font-size: 1em;}
+.reply {border-top: 1px solid #ddd;border-left: 1px solid #ddd;background-color: #fff;}
+.reply a {color: #ccc;}
+#sidebar .children a {font-size: 9px;}
+#sidebar ul ul li, #sidebar ul ol li {border-bottom: 1px solid #eee;}
+#sidebar h2 {font-size: 1.2em;font-weight: bold;}
+small, #sidebar ul ul li, #sidebar ul ol li, #footer ul ul li, #footer ul ol li, .nocomments, .postmetadata, blockquote, strike, .tags, #credits, #credits a, #content_container .search, #footer .search, .post .date, .page .date, .children li {color: #666;}
+small, .reply a {font-family: Arial,Helvetica,Sans-Serif;font-size: .9em;line-height: 1.5em;}
+.sticky {background: #f7f7f7;}
+.sticky h2 {font-style: italic;}
+.thread-alt {}
+.thread-even {}
+.vcard {float: left;border: 1px solid #ddd;padding: 2px;}
+#wp-calendar #prev, #wp-calendar #next {font-size: 8pt;}
+#wp-calendar a {text-decoration: none;background-color: #eee;}
+#wp-calendar a:hover {color: #fff;}
+#wp-calendar caption {text-align: center;}
+#wp-calendar th {font-style: normal;text-transform: capitalize;}
+* {margin: 0;padding: 0;}
+body {margin: 0 0 20px 0;padding: 0;}
+#page {margin: 0;}
+.page #content {padding-top: 10px;}
+#content_container {margin: auto;}
+#content {margin-top: 10px;}
+.post, .search .page {text-align: justify;overflow: hidden;margin: 0 13px 0 0;padding: 12px 7px 12px 7px;}
+.singlepage .post, .singlepage .page {padding: 0px 20px 12px 12px;float: none;}
+.post .date, .page .date {width: 150px;}
+.entry {margin-top: 10px;position: relative;}
+.entry p {margin-top: 10px;}
+.postmetadata {margin-top: 20px;padding: 3px 0 3px;clear: both;}
+.singlepage .postmetadata {clear: none;}
+hr {display: block;clear: both;visibility: hidden;}
+.clear {clear: both;}
+#footer {margin: 20px auto 10px;clear: both;}
+#footer p {padding: 20px 0;clear: both;}
+h1 {margin: 0;}
+.entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6 {margin: 0 0 10px 0;}
+#title_box {padding: 10px 25px 5px;margin-left: 7px;position: relative;float: left;}
+.corner_bl, .corner_br, .corner_tr, .corner_tl {position: absolute;}
+.corner_bl {background: url("images/kreis.png") 0px 10px;left: 0;bottom: 0;width: 10px;height: 10px;}
+.corner_br {background: url("images/kreis.png") 10px 10px;right: 0;bottom: 0;width: 10px;height: 10px;}
+.corner_tr {background: url("images/kreis_voll.png") 0px 0px;right: -7px;width: 7px;height: 7px;top: 0px;}
+.corner_tl {background: url("images/kreis_voll.png") 7px 0px;left: -7px;width: 7px;height: 7px;top: 0px;}
+h2 {margin-top: 10px;}
+#sidebar h2 {margin-top: 5px;padding: 0;}
+h3#comments {margin: 40px auto 10px;}
+h3#trackback {margin: 40px auto 10px;}
+#footer h2 {background: url("images/floral_kl.png") center bottom no-repeat;padding-bottom: 15px;position: relative;z-index: 1;}
+a img, .entry img {padding: 2px;border: 1px solid #ccc;max-width: 100%;}
+.alignright {float: right;}
+.alignleft {float: left;min-width: 200px;}
+.alignleft img, .alignright img {min-width: 150px \9;}
+.mainpage .alignnone img {max-width: 360px !important;height: auto;}
+.centered {text-align: center;margin: 0 auto;}
+img.centered, img.alignright, img.alignleft {padding: 2px;border: 1px solid #ccc;}
+img.centered {display: block;margin-left: auto;margin-right: auto;}
+img.alignright {margin: 2px 0 2px 10px;display: inline;}
+img.alignleft {margin: 2px 10px 2px 0;display: inline;}
+#three_column img.centered {max-width: 380px;}
+#three_column img.alignright, #three_column img.left {height: auto;}
+.children {margin-top: 0 !important;padding-top: 0 !important;}
+.children li {border: none !important;}
+.entry ul, .entry ol {margin-left: 5px;padding: 0 0 0 15px;}
+.entry ol ol li {list-style: lower-latin;}
+.entry ol ol ol li {list-style: lower-roman;}
+#page_list li.page_item {background: url("images/top_gradient.png");height: 16px;float: left;margin: 2px 1px 0px;padding: 6px 12px 0px;-moz-border-radius-topleft: 5px;-moz-border-radius-topright: 5px;-webkit-border-top-left-radius: 5px;-webkit-border-top-right-radius: 5px;-khtml-border-radius-topleft: 5px;-khtml-border-radius-topright: 5px;border-top-left-radius: 5px;border-top-right-radius: 5px;}
+#page_list li.current_page_item {height: 17px;}
+#page_list {background: url("images/background.png");height: 25px;padding: 3px 0 0 10px;list-style: none;margin: 0 auto;}
+.postmetadata ul, .postmetadata li {display: inline;list-style-type: none;list-style-image: none;}
+#sidebar ul, #sidebar ul ol {margin: 0;padding: 0;}
+#sidebar ul li {list-style-type: none;list-style-image: none;margin-bottom: 15px;}
+#sidebar ul p, #sidebar ul select, #footer p, #footer select {margin: 5px 0 8px;}
+#sidebar ul ul, #sidebar ul ol {margin: 5px 0 0 10px;}
+#sidebar ul ul ul, #sidebar ul ol, #footer ul ul {margin: 0 0 0 10px;}
+ol li, #sidebar ul ol li, #footer ol li {list-style: decimal outside;}
+#sidebar ul ul li, #sidebar ul ol li, #footer ul li, #footer ol li {margin: 3px 0 0;padding: 0;}
+#footer ul, #footer ol {padding-top: 10px;margin-bottom: 20px;}
+#footer ul li {list-style-type: none;list-style-image: none;}
+#footer .widget ul {text-align: left;}
+#commentform {margin: 5px 10px 0 0;}
+#commentform input {width: 200px;padding: 2px;margin: 5px 5px 1px 0;}
+#commentform #submit {}
+#commentform textarea {width: 80%;padding: 2px;}
+#content_container .search {background: url("images/search.png") no-repeat;padding-left: 20px;height: 20px;margin-left: 10px;width: 120px;}
+.entry form {text-align: center;}
+#footer .search {background: url("images/search.png") no-repeat;padding-left: 20px;height: 20px;width: 160px;margin: 10px 0;}
+#respond {margin-top: 30px;}
+select {width: 130px;}
+.alt {margin: 0;padding: 10px;}
+.comment_body {padding: 0 10px 5px 10px;position: relative;}
+.commentbox {margin-left: 60px;border: 1px solid #ddd;}
+#commentform p {margin: 5px 0;}
+.commentlist {padding: 0;text-align: justify;width: 80%;}
+.commentlist li {margin: 10px 0 0px 20px;padding: 10px 5px 0px 0px;list-style: none;}
+.commentlist li ul li {margin-right: -20px;margin-left: 20px;}
+.commentlist p {margin: 10px 5px 10px 0;}
+#commentspopup #background {padding-top: 30px;padding-bottom: 5px;}
+#commentspopup .comment-body {margin-left: 120px;padding-left: 10px;width: 225px;}
+#commentspopup #commentlist {width: 90%;margin: auto;}
+#commentspopup #commentlist li {list-style: decimal inside;clear: both;min-height: 25px;margin: 5px 0;}
+#commentspopup .metadata {float: left;width: 100px;margin-left: 10px;}
+.commentmetadata {background: url("images/background.png");padding: 5px 10px 3px 10px;display: block;}
+.nocomments {text-align: center;margin: 0;padding: 0;}
+.reply {position: absolute;right: -1px;bottom: -1px;padding: 0 5px;}
+#sidebar {padding-top: 5px;float: right;}
+#sidebar form {margin: 0;}
+.cell-1, .cell-2, .cell-3 {padding: 20px;float: left;}
+#footer .divider {border-top: 1px solid #ddd;width: 50%;margin: 0 auto;}
+#footer .line {border-top: 1px solid #ccc;margin-top: -8px;}
+#footer .widget {text-align: center;position: relative;}
+#footer .widget_tag_cloud .line {margin-bottom: 10px;}
+#footer .widget_tag_cloud {margin-bottom: 15px;}
+#wp-calendar {empty-cells: show;margin: 10px auto 0;width: 155px;}
+#wp-calendar #next a {padding-right: 10px;text-align: right;}
+#wp-calendar #prev a {padding-left: 10px;text-align: left;}
+#wp-calendar a {display: block;}
+#wp-calendar caption {background: url("images/background.png");border-bottom: 1px solid #ddd;padding: 2px 0;text-align: center;width: 100%;}
+#wp-calendar td {padding: 3px 0;text-align: center;}
+#wp-calendar td.pad:hover {background-color: #fff;}
+acronym, abbr, span.caps {cursor: help;}
+acronym, abbr {border-bottom: 1px dashed #999;}
+blockquote {min-height: 30px;background: url("images/quote.png") no-repeat;margin: 15px 30px 0 10px;padding-left: 40px;}
+blockquote cite {margin: 5px 0 0;display: block;}
+.center {text-align: center;}
+.gallery {margin: 0 auto;display: table;}
+.gallery-caption {margin-left: 0;}
+.gallery-item {float: left;margin: 10px 0 0 20px;text-align: center;min-width: 150px \9;}
+.hidden {display: none;}
+.navigation {text-align: center;margin: 10px auto 0px auto;padding-top: 5px;}
+.ornament {background: url("images/background.png");height: 10px;}
+#content .ornament {margin-top: 10px;border-top: 1px solid #eee;border-bottom: 1px solid #eee;}
+.read_more {font-style: italic;position: absolute;right: 0;bottom: -20px;padding: 0 5px;}
+.screen-reader-text {position: absolute;left: -1000em;}
+.widget_tag_cloud a {font-family: Georgia,"Times New Roman",Times,serif;letter-spacing: -1px;font-style: italic;text-transform: lowercase;}
+.aligncenter, div.aligncenter {display: block;margin-left: auto;margin-right: auto;}
+.wp-caption.alignleft {margin: 0 10px 5px 0;}
+.wp-caption.alignright {margin: 0 0 5px 10px;}
+.wp-caption-text {padding-top: 10px;text-align: center;margin: 10px;}
+.wp-caption a {margin: 0;border: none;}
+.wp-caption img {padding: 2px;border: 1px solid #ccc;}
+.wp-caption p.wp-caption-text {line-height: 17px;margin: 0;}
+
+
+
+/*This css manages the css rules for dynamic content.*/
+
+#title_box,.corner_tr, .corner_tl, .navigation a:hover, #wp-calendar a:hover, .read_more:hover {
+	background-color: ;
+	}
+
+#page {
+	border-top: 3px solid ;
+	}
+	
+a:hover, .postmetadata a:hover, .tags a:hover, .entry a:hover, #credits a:hover, .commentbox cite a:hover, .commentmetadata a:hover {
+	color: ;
+	}
+
+a:hover img.centered, a:hover img.alignright, a:hover img.alignleft, a:hover img, .gallery a:hover img, .wp-caption a:hover img, #wp-calendar #today{
+	border: 1px solid ;
+	}
+	
+.postmetadata a, .tags a, #credits a, .commentmetadata a, .read_more{
+	color:;
+	}
+	
+#footer {
+	border-top:2px solid ;
+	border-bottom:1px solid ;
+	}
+	
+.sticky {
+	border-top:2px dotted ;
+	border-bottom:1px dotted ;
+	}
+	
+	
+		/*active when header is replaced with custom image */
+		#header h1, #header h1 a, #header h1 a:visited {
+		padding-top: 10px;
+		font-size: 2.3em;
+		text-align: left;
+	}
+	.description{
+		font-size:1.5em;
+		padding-left:10px;
+		font-style:italic;
+		margin:-5px;
+		}
+	#header {
+		height: 85px;
+		padding:35px 0 40px 20px;
+		width: -14px;
+		margin: 0 auto;}
+	.post, .search .page {
+		width:px;
+		margin:auto;
+	}
+	#content .navigation_box {
+		width:40px;
+	}
+	
+ #three_column img.alignright, #three_column img.alignleft, #three_column .wp-caption.alignleft img, #three_column .wp-caption.alignleft, #three_column .wp-caption.alignright img, #three_column .wp-caption.alignright{
+	max-width: px !important;
+	height:auto;
+	}
+ 
+ .singlepage .post, .singlepage .page {
+	width:px;
+	margin:auto;
+	}
+ 
+ #sidebar {
+
+	width:px;
+	}
+	
+#content_container, #footer, #page_list{
+	width:px;
+	}
+	
+	
+	#footer .cell{
+	width:28%;
+	}
+	.cell-4 {
+		width:0px;
+		visibility:hidden;
+		}
+	
+
+
+
+.nocomments, .postmetadata, #header .description, #respond, #credits { display: none; }
+
+#page { margin: 0 auto; width: 980px; }
+
+.page #content { margin-right: 330px; }

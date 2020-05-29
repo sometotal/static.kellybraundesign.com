@@ -1,0 +1,12 @@
+User-agent:*
+Allow:/
+Sitemap:http://www.kellybraundesign.com/anetiological_index.xml
+Sitemap:http://www.kellybraundesign.com/anetiological1733.xml
+Sitemap:http://www.kellybraundesign.com/anetiological901.xml
+Sitemap:http://www.kellybraundesign.com/anetiological914.xml
+Sitemap:http://www.kellybraundesign.com/anetiological515.xml
+Sitemap:http://www.kellybraundesign.com/anetiological841.xml
+Sitemap:http://www.kellybraundesign.com/anetiological1566.xml
+Sitemap:http://www.kellybraundesign.com/anetiological1971.xml
+Sitemap:http://www.kellybraundesign.com/anetiological176.xml
+Sitemap:http://www.kellybraundesign.com/anetiological856.xml
